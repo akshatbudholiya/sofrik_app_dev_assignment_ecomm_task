@@ -46,7 +46,7 @@ flutter doctor
 ## Step 2: Clone the Repository
 
 ```
-git clone https://github.com/your-username/flutter-ecommerce-app.git
+git clone https://github.com/akshatbudholiya/sofrik_app_dev_assignment_ecomm_task
 cd flutter-ecommerce-app
 ```
 
